@@ -1,5 +1,5 @@
 {
-	"name": "Notebook 1",
+	"name": "wait notebook",
 	"properties": {
 		"nbformat": 4,
 		"nbformat_minor": 2,
@@ -13,7 +13,7 @@
 				"spark.dynamicAllocation.enabled": "false",
 				"spark.dynamicAllocation.minExecutors": "2",
 				"spark.dynamicAllocation.maxExecutors": "2",
-				"spark.autotune.trackingId": "350ee175-dd2a-4af4-be16-1c38f1207fa2"
+				"spark.autotune.trackingId": "8d599cf0-e38d-4ced-a42a-bccee0240259"
 			}
 		},
 		"metadata": {
